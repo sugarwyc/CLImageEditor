@@ -7,12 +7,6 @@
 
 #import <UIKit/UIKit.h>
 
-//! Project version number for CLImageEditor.
-FOUNDATION_EXPORT double CLImageEditorVersionNumber;
-
-//! Project version string for CLImageEditor.
-FOUNDATION_EXPORT const unsigned char CLImageEditorVersionString[];
-
 #import "CLImageToolInfo.h"
 #import "CLImageEditorTheme.h"
 
